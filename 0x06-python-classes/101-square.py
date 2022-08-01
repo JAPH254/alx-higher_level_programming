@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# Author: Martins Akhivbareme
-
+# 101-square.py
+# Geeon Obae Gekonge <gideonobae@gmail.com>
 """Define a class Square."""
 
 
@@ -9,7 +9,6 @@ class Square:
 
     def __init__(self, size=0, position=(0, 0)):
         """Initialize a new square.
-
         Args:
             size (int): The size of the new square.
             position (int, int): The position of the new square.

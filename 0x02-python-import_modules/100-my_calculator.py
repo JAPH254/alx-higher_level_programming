@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-# Author: Martins Akhivbareme
+# 100-my_calculator.py
+# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 if __name__ == "__main__":
     """Handle basic arithmetic operations."""

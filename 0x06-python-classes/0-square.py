@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# Author: Martins Akhivbareme
-
+# 0-square.py
+# Gedeon Obae Gekonge <gideonobae@gmail.com>
 """Define a class Square."""
 
 

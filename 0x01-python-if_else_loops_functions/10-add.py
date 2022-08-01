@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-# Author - Martins Akhivbareme
+# 10-add.py
+# Gedeon Obae Gekonge <gideonobae@gmail.com>
+
 
 def add(a, b):
     """Return the addition of a and b."""

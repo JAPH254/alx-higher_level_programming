@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-# Author: Martins Akhivbareme
+# 7-update_dictionary.py
+# Gedeon Obae Gekonge <gideonobae@gmail.com>
+
+
 def update_dictionary(a_dictionary, key, value):
+    """Replace or add key/value pairs in a dictionary."""
     a_dictionary[key] = value
     return (a_dictionary)

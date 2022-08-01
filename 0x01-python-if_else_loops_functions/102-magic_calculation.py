@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-# Author - Martins Akhivbareme
+# 102-magic_calculation.py
+# Gedeon Obae Gekonge <gideonobae@gmail.com>
+
 
 def magic_calculation(a, b, c):
     """Match bytecode provided by Holberton School."""

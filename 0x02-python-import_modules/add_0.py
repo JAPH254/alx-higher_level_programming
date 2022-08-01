@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# Author: Martins Akhivbareme
-
 def add(a, b):
     """My addition function
 

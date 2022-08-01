@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# Author - Martins Akhivbareme
-
 uppercase = __import__('8-uppercase').uppercase
 
 uppercase("best")
