@@ -30,7 +30,6 @@ Prototypes for functions written in this project:
 ## Tasks :page_with_curl:
 
 * **0. Read file**
-
   * [0-read_file.py](./0-read_file.py): Python function that prints the contents of a UTF8 text
   file to standard output.
 
@@ -127,4 +126,3 @@ Prototypes for functions written in this project:
   * Only looks in the heap of the process.
   * On a usage error, prints an error message to `stdout` and exits with the
   status code `1`.
-

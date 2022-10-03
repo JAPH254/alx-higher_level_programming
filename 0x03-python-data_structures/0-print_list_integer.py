@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-print_list_integer.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 
 
 def print_list_integer(my_list=[]):

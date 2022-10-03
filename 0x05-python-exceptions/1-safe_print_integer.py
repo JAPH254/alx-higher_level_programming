@@ -1,12 +1,14 @@
 #!/usr/bin/python3
 # 1-safe_print_integer.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 
 
 def safe_print_integer(value):
     """Print an integer with "{:d}".format().
+
     Args:
         value (int): The integer to print.
+
     Returns:
         If a TypeError or ValueError occurs - False.
         Otherwise - True.

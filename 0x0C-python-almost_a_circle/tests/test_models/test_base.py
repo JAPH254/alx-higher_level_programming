@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_base.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Amos Mwongela Gabriel
 """Defines unittests for base.py.
 
 Unittest classes:

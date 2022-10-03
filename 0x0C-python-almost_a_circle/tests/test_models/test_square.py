@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_square.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Amos Mwongela Gabriel
 """Defines unittests for models/square.py.
 
 Unittest classes:

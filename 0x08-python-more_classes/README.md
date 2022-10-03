@@ -6,7 +6,7 @@ how to use the special `__str__` and `__repr__` methods.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files. Provided by ALX.
 
 ## Tasks :page_with_curl:
 
@@ -15,7 +15,6 @@ how to use the special `__str__` and `__repr__` methods.
 
 * **1. Real definition of a rectangle**
   * [1-rectangle.py](./1-rectangle.py): Python class that defines a rectangle. Builds on
-
   [0-rectangle.py](./0-rectangle.py) with:
     * Private instance attribute `width`.
     * Property getter `def width(self):` to get `width`.
@@ -99,4 +98,3 @@ how to use the special `__str__` and `__repr__` methods.
   * Solutions are printed one per line in the format `[[r, c], [r, c], [r, c],
   [r, c]]` where `r` and `c` represent the row and column, respectively, where a
   queen must be placed.
-

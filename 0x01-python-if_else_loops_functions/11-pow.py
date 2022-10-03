@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 11-pow.py
-# Gedeon Obae Gekonge <gideonobaegmail.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 
 
 def pow(a, b):

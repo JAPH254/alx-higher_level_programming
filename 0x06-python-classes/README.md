@@ -5,10 +5,6 @@ classes and objects in Python. I learned about attributes, methods, and
 properties as well as data abstraction, data encapsulation, and information
 hiding.
 
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files. Provided by Holberton School.
-
 ## Tasks :page_with_curl:
 
 * **0. My first square**
@@ -37,13 +33,13 @@ hiding.
 
 * **4. Access and update private attribute**
   * [4-square.py](./4-square.py): Python class `Square` that defines a square. Builds on
-
   [3-square.py](./3-square.py) with:
     * Property `def size(self):` to retrieve the private instance
     attribute `self`.
     * Property setter `def size(self, value):` to set `self`.
 
-* **5. Printing a square* [5-square.py](./5-square.py): Python class `Square` that defines a square. Builds on
+* **5. Printing a square**
+  * [5-square.py](./5-square.py): Python class `Square` that defines a square. Builds on
   [4-square.py](./4-square.py) with:
     * Public instance method `def my_print(self):` that prints the square
     with the character `#` to standard output (if `size` == 0 -> prints an empty
@@ -99,5 +95,5 @@ hiding.
 
 * **10. ByteCode -> Python #5**
   * [103-magic_class.py](./103-magic_class.py): Python function matching exactly a bytecode
-  provided by Holberton School.
+
 

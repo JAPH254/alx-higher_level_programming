@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 5-square.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 """Define a class Square."""
 
 
@@ -9,6 +9,7 @@ class Square:
 
     def __init__(self, size):
         """Initialize a new square.
+
         Args:
             size (int): The size of the new square.
         """

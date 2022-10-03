@@ -94,9 +94,10 @@ Represents a rectangle. Inherits from `Base` with:
 instance.
 * Public method `def display(self):` that prints the `Rectangle` instance to
 `stdout` using the `#` character.
-
   * Prints new lines for the `y` coordinate and spaces for the `x` coordinate.
-* Overwrite of `__str__` method* Public method `def update(self, *args, **kwargs):` that updates an instance
+* Overwrite of `__str__` method to print a `Rectangle` instance in the format
+`[Rectangle] (<id>) <x>/<y>`.
+* Public method `def update(self, *args, **kwargs):` that updates an instance
 of a `Rectangle` with the given attributes.
   * `*args` must be supplied in the following order:
     * 1st: `id`
@@ -131,4 +132,3 @@ of a `Square` with the given attributes.
   * `**kwargs` is skipped if `*args` exists.
 * Public method `def to_dictionary(self):` that returns the dictionary
 representation of a `Square`.
-

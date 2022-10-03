@@ -7,8 +7,7 @@ and attributes.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Includes both Holberton-provided ones
-as well as the following two independently-developed:
+* [tests](./tests): Folder of test files.
     * [1-my_list.txt](./1-my_list.txt)
     * [7-base_geometry.txt](./7-base_geometry.txt)
 
@@ -104,4 +103,3 @@ Prototypes for functions written in this project:
   object if possible.
     * If an attribute cannot be added, a `TypeError` exception is raised with the
     message `can't add new attribute`.
-

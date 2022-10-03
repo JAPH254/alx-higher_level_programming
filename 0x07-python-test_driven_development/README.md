@@ -5,7 +5,7 @@ and `unittest` in Python.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Includes both Holberton-provided ones as well as the
+* [tests](./tests): Folder of test files. Includes both ALX provided ones as well as the
 following eight independently-developed:
   * [0-add_integer.txt](./tests/0-add_integer.txt)
   * [2-matrix_divided.txt](./tests/2-matrix_divided.txt)
@@ -92,7 +92,6 @@ Prototypes for functions written in this project:
   * If either of `m_a` or `m_b` is empty (ie. `== []` or `== [[]]`), a
   `ValueError` is raised with the message `m_a can't be empty` or `m_b can't
   be empty`.
-
   * If either of `m_a` or `m_b` is not a list, a `TypeError` is raised with
   the message `m_a must be a list` or `m_b` must be a list.
   * If either of `m_a` or `m_b` is not a list of lists, a `TypeError` is raised

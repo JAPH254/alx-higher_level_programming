@@ -1,31 +1,19 @@
 #!/usr/bin/python3
-""" script that lists all cities from the database hbtn_0e_4_usa """
-from sys import argv
+"""
+Lists all cities of the database hbtn_0e_4_usa, ordered by city id.
+Usage: ./4-cities_by_state.py <mysql username> \
+                              <mysql password> \
+                              <database name>
+"""
+import sys
 import MySQLdb
+
 if __name__ == "__main__":
-    conn = MySQLdb.connect(
-        host="localhost",
-        port=3306,
-        user=argv[1],
-        passwd=argv[2],
-        db=argv[3],
-        charset="utf8")
-    cur = conn.cursor()
-    try:
-        stmt = """
-        SELECT cities.id, cities.name, states.name
-        FROM cities, states
-        WHERE cities.state_id = states.id
-        ORDER BY cities.id ASC
-        """
-        cur.execute(stmt)
-        rtn = cur.fetchall()
-    except MySQLdb.Error:
-        try:
-            rtn = ("MySQLdb Error")
-        except IndexError:
-            rtn = ("MySQLdb Error - IndexError")
-    for i in rtn:
-        print(i)
-    cur.close()
-    conn.close()
+    db = MySQLdb.connect(user=sys.argv[1], passwd=sys.argv[2], db=sys.argv[3])
+    c = db.cursor()
+    c.execute("SELECT `c`.`id`, `c`.`name`, `s`.`name` \
+                 FROM `cities` as `c` \
+                INNER JOIN `states` as `s` \
+                   ON `c`.`state_id` = `s`.`id` \
+                ORDER BY `c`.`id`")
+    [print(city) for city in c.fetchall()]

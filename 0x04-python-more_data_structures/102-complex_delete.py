@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-complex_delete.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 
 
 def complex_delete(a_dictionary, value):

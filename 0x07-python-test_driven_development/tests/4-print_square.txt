@@ -1,6 +1,5 @@
-
 # 4-print_square.txt
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Brennan D Baraban <375@holbertonschool.com>
 
 ============================
 How to Use 4-print_square.py

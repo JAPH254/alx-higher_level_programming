@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 10-best_score.py
-# Gedeon Obae Ge <gideonobae@gmail.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 
 
 def best_score(a_dictionary):

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 9-print_last_digit.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 
 
 def print_last_digit(number):

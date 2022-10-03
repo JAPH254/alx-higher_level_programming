@@ -5,8 +5,6 @@ Python - specifically, lists and tuples.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
-
 ## Function Prototypes :floppy_disk:
 
 Prototypes for functions written in this project:
@@ -85,13 +83,11 @@ Prototypes for functions written in this project:
   * If the string is empty, the first character should equal `None`.
   * Without importing modules.
 
-
 * **9. Find the max**
   * [9-max_integer.py](./9-max_integer.py): Python function that finds the biggest integer
   of a list.
   * If the list is empty, the function returns `None`.
   * Without importing modules or using the builtin `max()`.
-
 
 * **10. Only by 2**
   * [10-divisible_by_2.py](./10-divisible_by_2.py): Python function that finds all multiples
@@ -100,7 +96,6 @@ Prototypes for functions written in this project:
   the same position in the original list is a multiple of 2.
   * Without importing modules.
 
-
 * **11. Delete at**
   * [11-delete_at.py](./11-delete_at.py): Python function that deletes an item at
   a specific position in a list.
@@ -108,12 +103,10 @@ Prototypes for functions written in this project:
   `my_list`), the function returns the original list.
   * Without imporitng modules or using `pop()`.
 
-
 * **12. Switch**
   * [12-switch.py](./12-switch.py): Python program that switches the values of
   variable `a` and `b`.
   * Completion of [this source code](https://github.com/holbertonschool/0x03.py/blob/master/12-switch_py).
-
 
 * **13. Linked list palindrome**
   * [13-is_palindrome.c](./13-is_palindrome.c): C function that checks if a
@@ -128,8 +121,6 @@ Prototypes for functions written in this project:
     and functions used in [linked_lists.c](./linked_lists.c) and
     [13-insert_number.c](./13-insert_number.c).
 
-
 * **14. CPython #0: Python lists**
   * [100-print_python_list_info.c](./100-print_python_list_info.c): C function that
   prints basic information about Python lists.
-

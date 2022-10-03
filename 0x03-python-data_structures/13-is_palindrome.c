@@ -1,6 +1,6 @@
 /*
  * File: 13-is_palindrome.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Amos Mwongela Gabriel
  */
 
 #include "lists.h"

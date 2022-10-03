@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 # 5-no_c.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 
 
 def no_c(my_string):
-    return ("".join(c for c in my_string if c not in "Cc"))
+    """Remove all characters c and C from a string."""
+    copy = [x for x in my_string if x != 'c' and x != 'C']
+    return ("".join(copy))

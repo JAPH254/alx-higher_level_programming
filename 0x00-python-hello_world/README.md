@@ -5,7 +5,7 @@ and variables, and indexing and slicing strings in Python.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+
 
 ## Function Prototypes :floppy_disk:
 
@@ -25,7 +25,6 @@ Prototypes for functions written in this project:
 * **1. Run inline**
   * [1-run_inline](./1-run_inline): Bash script that runs Python code saved in the
   environment variable `$PYCODE`.
-
 
 * **2. Hello, print**
   * [2-print.py](./2-print.py): Python script that prints exactly `"Programming is
@@ -94,4 +93,4 @@ Prototypes for functions written in this project:
 
 * **13. ByteCode -> Python #1**
   * [102-magic_calculation.py](./103-magic_calculation.py): Python function matching exactly
-  
+  a bytecode provided by Alx.

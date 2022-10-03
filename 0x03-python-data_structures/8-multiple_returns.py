@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 8-multiple_returns.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 
 
 def multiple_returns(sentence):

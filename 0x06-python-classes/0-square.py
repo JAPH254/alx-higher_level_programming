@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-square.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 """Define a class Square."""
 
 

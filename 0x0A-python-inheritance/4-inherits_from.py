@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-inherits_from.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 """Defines an inherited class-checking function."""
 
 

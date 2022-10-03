@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 12-fizzbuzz.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
 
 
 def fizzbuzz():
